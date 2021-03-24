@@ -1,3 +1,4 @@
+//fetch
 const formEmp = document.getElementById("formEmp");
 const inputName = document.getElementById("name");
 const inputEmail = document.getElementById("email");
