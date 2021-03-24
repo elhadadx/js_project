@@ -1,2 +1,2 @@
 # js_project
-js
+crud app 
